@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "VMWare Airwatch"
+  },
+  "bugs": {
+    "email": "DL.ReleaseManagement@air-watch.com"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "airwatch-sdk-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Integrate AirWatch SDK capabilities into your Cordova project",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "VMWare license",
+  "name": "airwatch-sdk-plugin",
+  "version": "1.0.7"
+}

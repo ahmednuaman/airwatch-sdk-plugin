@@ -1,0 +1,6 @@
+framework module AWSDK {
+    umbrella header "AWSDKHeaders.h"
+    export *
+
+    module * { export * }
+}
