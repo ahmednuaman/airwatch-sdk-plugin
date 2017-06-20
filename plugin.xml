@@ -2,10 +2,10 @@
 <plugin
     xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="airwatch-sdk-plugin"
+    id="ahmeds-airwatch-sdk-plugin"
     version="1.0.7">
 
-    <name>airwatch-sdk-plugin</name>
+    <name>ahmeds-airwatch-sdk-plugin</name>
 
     <engines>
         <engine name="cordova" version=">=3.4.0"/>

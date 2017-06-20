@@ -7,14 +7,14 @@
   },
   "bundleDependencies": false,
   "cordova": {
-    "id": "airwatch-sdk-plugin",
+    "id": "ahmeds-airwatch-sdk-plugin",
     "platforms": [
       "android",
       "ios"
     ]
   },
   "deprecated": false,
-  "description": "Integrate AirWatch SDK capabilities into your Cordova project",
+  "description": "Don't use this",
   "engines": [
     {
       "name": "cordova",
@@ -27,6 +27,6 @@
     "cordova-ios"
   ],
   "license": "VMWare license",
-  "name": "airwatch-sdk-plugin",
+  "name": "ahmeds-airwatch-sdk-plugin",
   "version": "1.0.7"
 }
